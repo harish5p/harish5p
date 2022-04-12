@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile. You can find me on Twitter @harish5p, I love create beautiful visualizations of formula1 data @TracingInsights
 
 <!--
 **harish5p/harish5p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
